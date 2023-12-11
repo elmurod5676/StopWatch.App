@@ -1,5 +1,4 @@
 # StopWatch.App
-Timer created on Windows-Forms C#
+StopWatch created on Windows-Forms C#
 
-Start - Start StopWatch
-Stop - Stop StopWatch
+download from [here!](https://github.com/elmurod5676/StopWatch.App/releases/tag/StopWatch)
